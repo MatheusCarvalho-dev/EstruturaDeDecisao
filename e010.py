@@ -14,7 +14,7 @@ elif turno == 'V':
     print('Boa tarde!')
 elif turno == 'n':
     print('Boa noite!')
-elif turno == 'NM':
+elif turno == 'N':
     print('Boa noite!')
 else:
     print('Valor Inválido!')
