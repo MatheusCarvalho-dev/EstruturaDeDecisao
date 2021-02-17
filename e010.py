@@ -3,7 +3,7 @@
 # conforme o caso.
 
 
-turno = str(input('Qual turno você é? Digite M-matutino ou V-Vespertino ou N- Noturno.'))
+turno = str(input('Qual turno você é? Digite M-matutino ou V-Vespertino ou N-Noturno.'))
 if turno == 'm':
     print('Bom dia!')
 if turno == 'M':
